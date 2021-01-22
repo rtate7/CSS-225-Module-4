@@ -1,3 +1,8 @@
+# Edited for debugging by Robert Tate on 1/22/21
+# 
+# Gets current time and wait time from user and prints the time
+# when the wait will be completed
+
 str_time = input("What time is it now? ")
 str_wait_time = input("What is the number of hours to wait? ")
 time = int(str_time)

@@ -1,5 +1,8 @@
 # Create a collection of these authors and
 # the year they kicked the bucket;
+
+# Edited for debugging by Robert Tate on 1/22/21
+
 # print the collection in the following format:
 
 # Charles Dickens died in 1870.

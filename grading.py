@@ -1,5 +1,7 @@
 # Calculating Grades (ok, let me think about this one)
 
+# Edited for debugging by Robert Tate on 1/22/21
+
 # Write a program that will average 3 numeric exam grades, return an average test score, a corresponding letter grade, and a message stating whether the student is passing.
 
 # Average	Grade

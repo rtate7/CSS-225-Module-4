@@ -1,5 +1,7 @@
 # A time traveler has suddenly appeared in your classroom!
-
+#
+# Edited for debugging by Robert Tate on 1/22/21
+# 
 # Create a variable representing the traveler's
 # year of origin (e.g., year = 2000)
 # and greet our strange visitor with a different message
