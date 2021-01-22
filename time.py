@@ -4,5 +4,5 @@ waitTimeStr = input("How many hours do you want to wait? ")
 currentTimeInt = int(currentTimeStr)
 waitTimeInt = int(waitTimeStr)
 
-finalTimeInt = currentTimeInt + waitTimeInt
+finalTimeInt = (currentTimeInt + waitTimeInt) % 24
 print(str(finalTimeInt))
